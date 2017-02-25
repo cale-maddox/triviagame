@@ -24,5 +24,3 @@ function run() {
         //  Alert the user that time is up.
         alert("Time Up!");d
       }
-
-      decrement();
